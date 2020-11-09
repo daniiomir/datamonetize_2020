@@ -7,8 +7,8 @@ from flask import Flask, request, jsonify
 
 # start link - https://api.whatsapp.com/send?phone=74951896618&text=Start
 
-login = "gleb_hack"
-passwd = "7366UKui"
+login = "test"
+passwd = "test"
 
 url = "http://sds.smstraffic.ru/smartdelivery-in/multi.php"
 url2 = "http://sds2.smstraffic.ru/smartdelivery-in/multi.php"
